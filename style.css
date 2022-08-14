@@ -1,0 +1,37 @@
+
+body{
+    background-color: #d6e2f0;
+    font-family: 'Encode Sans', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.whiteRectangle {
+    width: 320px;
+    height: 500px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#QRcode {
+    width: 288px;
+    height: 288px;
+    border-radius: 10px;
+    margin-top: 16px;
+}
+h3 {
+    margin: 20px 20px 20px 20px;
+    font-weight: 700;
+    font-size: 22px;
+}
+
+p {
+    margin: 20px;
+    color: #7b879d;
+    font-weight: 400;
+    font-size: 15px;
+}
