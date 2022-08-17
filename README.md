@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: https://github.com/White-Walnut/White-Walnut.github.io.git
-- Live Site URL: https://white-walnut.github.io/
+- Live Site URL: https://white-walnut.github.io/QR-Code-Challenge/
 
 ## My process
 
